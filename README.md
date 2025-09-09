@@ -91,5 +91,5 @@ npm run dev
 ## 🖼️ Screenshots  
 
 ### 🔹 Signup Page  
-![Signup Page](.frontend/public/signup.png)  
+![Signup Page](./frontend/public/signup.png)  
   
